@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color: #ff5500;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+p {
+  font-family: Cambria;
+  font-size: 12px;
+}
+
+ul {
+  line-height: 40px;
+}
