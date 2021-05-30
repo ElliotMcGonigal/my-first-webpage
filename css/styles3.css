@@ -1,0 +1,26 @@
+h1 {
+  color: #00ff00;
+  text-align: right;
+}
+
+h2 {
+  font-size: xx-large;
+
+}
+
+p {
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium';
+}
+
+ul {
+  font-style: bold;
+}
+
+li {
+  font-style: italic;
+}
+
+ol {
+  color: pink;
+}
